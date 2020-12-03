@@ -1,0 +1,29 @@
+.confirmOrdersCenter {
+  border: 1px solid lightgrey;
+  padding: 0;
+  width: 174% !important;
+  margin: 0 0 0 111px;
+}
+.confirm-logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+.confirm {
+  margin: 5% 0 5% 1%;
+  color: #2a2c7c;
+}
+.allinputs {
+   margin: 2%;
+}
+.conf{
+    background-color: rgb(250, 250, 250);
+    font-size: 0.9rem;
+}
+.heading-confirm {
+    color: #2a2c7c;
+}
+.confirm-payment{
+    width: 100%;
+    background-color: #2a2c7c;
+}

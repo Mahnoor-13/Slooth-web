@@ -1,0 +1,130 @@
+.discussCenter {
+  border: 1px solid lightgrey;
+  padding: 0;
+  width: 174% !important;
+  margin: 0 0 0 111px;
+  /* background-image: linear-gradient(
+    rgb(200, 245, 222),
+    rgb(21, 7, 99),
+    rgb(121, 206, 235)
+  ); */
+}
+.discuss-heading {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.discuss {
+  margin: 5% 0 5% 1%;
+  color: white;
+}
+.pet3-discuss {
+  font-size: 7rem !important;
+  color: white;
+  margin: 0 0 0 5%;
+}
+
+.discuss-br {
+  border: 1px;
+  /* border-radius: 94px; */
+  /* padding: 4% 4%; */
+  background-image: linear-gradient(
+    rgb(132, 248, 186),
+    rgb(75, 61, 155),
+    rgb(121, 206, 235)
+  );
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 200px;
+}
+.pup-para-discuss {
+  display: flex;
+  justify-content: center;
+}
+.discuss-border {
+  padding: 7% 18% !important;
+}
+.seconds-dis {
+  text-align: center;
+  font-size: 1.3rem;
+  color: darkgray;
+}
+.play-icons-dis {
+  display: flex;
+  justify-content: center;
+}
+.icon-pod-dis {
+  color: white;
+  font-size: 2rem !important;
+  width: 2em !important;
+}
+
+.img-discussion {
+  width: 51px;
+  height: 49px;
+  margin: 9% auto 0;
+  border-radius: 80%;
+  position: relative;
+  /* margin: 1% 2% 10%; */
+  /* border: 5px solid white; */
+}
+.name-p {
+  color: white;
+  font-size: 0.7em;
+}
+
+.image-name-p {
+  display: flex;
+  margin: 5%;
+}
+.dis-p {
+  margin: 8%;
+  color: white;
+  font-size: 1rem;
+}
+.input-discuss {
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 42px;
+  width: 175%;
+  margin: 0 0 0 3%;
+}
+.input-icon-disc {
+  display: flex;
+  justify-content: space-between;
+  width: 65%;
+  margin: 0 auto;
+}
+.above-podcast-information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.podcast-information {
+  color: white;
+  font-size: 19px;
+  font-weight: bold;
+  margin: 5% 0 0;
+}
+.anc-y1 {
+  margin: 10% 0;
+}
+.anc-y2 {
+  margin: 13% 0 30%;
+}
+.audio-player-div {
+  width: 50%;
+  margin: 0 auto;
+}
+.audio-in-discussion {
+  box-shadow: none !important;
+}
+.chats-div {
+  overflow: scroll;
+  height: 300px;
+}

@@ -1,0 +1,113 @@
+.pettype .modal-content {
+    height: 100vh;
+  }
+.modal-heading{
+  display: flex;
+    justify-content: space-between;
+    width: 88%;
+    margin: 0 auto;
+    align-items: center;
+    height: 18%;
+}
+  .pettype .heading-h3 {
+    text-align: center;
+    font-size: 1.6rem;
+  }
+  
+  .pettype .container {
+    position: relative;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .pettype .dog {
+    height: 26vh;
+    width: 48%;
+    border: 10px solid white;
+    border-radius: 20px;
+    /* margin-left: 2%; */
+    width: 201px!important;
+    height: 168px;
+  }
+  
+  .pettype .all-left {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .pettype .all-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  .pettype .left {
+    position: absolute;
+    bottom: 399px;
+    left: 45px;
+    display: none;
+  }
+  .pettype .right {
+    position: absolute;
+    bottom: 399px;
+    right: 170px;
+    display: none;
+  }
+  .pettype .bottom-left {
+    position: absolute;
+    bottom: 205px;
+    left: 45px;
+  }
+  
+  .pettype .bottom-right {
+    position: absolute;
+    bottom: 205px;
+    right: 160px;
+  }
+  
+  .pettype .top-left {
+    position: absolute;
+    left: 45px;
+    bottom: 20px;
+  }
+  
+  .pettype .top-right {
+    position: absolute;
+    right: 170px;
+    bottom: 20px;
+  }
+  .pettype .dashed-div {
+    border-style: dashed;
+    margin: 0 auto;
+    width: 88%;
+  }
+  
+  .pettype .para-dashed {
+    text-align: center;
+    margin: 8px;
+  }
+  
+  .pettype .simple-div {
+    width: 88%;
+    margin: 0 auto;
+  }
+  
+  .pettype .button2 {
+    width: 100%;
+    margin: 5% 0 0 0%;
+    height: 8vh;
+    background-color: #2a2e7c;
+  
+  }
+  .pettype .petname {
+    color: white;
+    position: absolute;
+    margin-top: -9%;
+    margin-left: 6%;
+  } 
+.logo-modal{
+    margin: 22px 180px!important;
+    width: 10%!important;
+}

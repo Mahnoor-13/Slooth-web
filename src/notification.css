@@ -1,0 +1,100 @@
+
+  
+  /* center */
+  
+  .noti-center {
+    border: 1px solid lightgrey;
+    padding: 0;
+    margin: 0px 0px 0px 111px;
+    width: 190%;
+  }
+  .notification{
+    width: 96%;
+    display: flex;
+    flex-direction: row;
+    margin: 3% 0 0 0%;
+    justify-content: space-between;
+}
+  
+.notification-heading{
+    margin-left: 4%;
+    font-weight: bold;
+}
+
+.noti-setting{
+    height: 10%;
+    width: 4%;
+}
+
+.noti-setting:hover{
+    cursor: pointer;
+    background-color: #a3a4ce;
+    border-radius: 55px;
+}
+.noti-tab{
+    display: flex;
+    justify-content: space-around!important;
+}
+.notification-tab{
+    margin: 7% 0% 0 0%;
+}
+.all-anchor{
+    font-weight: bold;
+}
+.all-anchor:hover{
+    text-decoration: none;
+}
+.mentions-anchor{
+    font-weight: bold;
+    color: gray;
+}
+.mentions-anchor:hover{
+    text-decoration: none;
+    color: gray;
+}
+.heart-image{
+    width: 5%;
+    height: 2%;
+    margin: 2% 0 0 4%;
+}
+.noti-pet{
+    width: 48px;
+    height: 48px;
+    border-radius: 80%;
+    position: relative;
+    object-fit: cover;
+}
+.heart-pet{
+    display: flex;
+    margin: 2% 0% 0% 1%;
+}
+
+.anchor-para{
+    display: flex;
+    margin-left: 11%;
+    font-size: 0.9rem;
+    font-weight: 400;
+}
+.reply-noti{
+    color: black;
+}
+.reply-noti:hover{
+    color: black;
+}
+.notification-para{
+    margin-left: 11%;
+    font-size: 0.9rem;
+    color: rgb(101, 119, 134);
+}
+.all-notifications:hover{
+    cursor: pointer;
+    background-color: rgb(247, 247, 247);
+}
+
+
+@media(max-width: 815px) {
+    .noti-center {
+      margin: 0 auto!important;
+      
+    }
+  }

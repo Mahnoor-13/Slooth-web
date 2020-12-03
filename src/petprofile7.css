@@ -1,0 +1,40 @@
+.bottom-left3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 192px;
+  left: 19px;
+}
+.lorem-ipsum3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 80px;
+  left: 19px;
+}
+.learn-more3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 13px;
+  bottom: 73px;
+  left: 19px;
+}
+.bottom-right3 {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 17px;
+  color: #ffffff;
+}
+
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  width: 88%;
+  margin: 0 auto;
+  align-items: center;
+  height: 18%;
+}

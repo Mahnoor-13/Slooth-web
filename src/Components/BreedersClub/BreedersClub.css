@@ -1,0 +1,162 @@
+.carousel-div {
+  padding: 0 2%;
+  margin: -7% 1px;
+}
+.legend {
+  width: 40% !important;
+  height: 35% !important;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(45deg, black, transparent) !important;
+}
+.inside-legend-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+.available-for-sale {
+  color: green;
+  font-weight: bold;
+}
+.click-here {
+  color: orchid;
+}
+.seller-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+.breeders-club-center {
+  /* width: 663px !important; */
+}
+.dot {
+  background: lightgray !important;
+}
+.legend-details {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+.carousel .slide img {
+  height: 400px !important;
+}
+.carousel .thumb img {
+  height: 50px;
+}
+.search-breeders-club {
+  width: 90%;
+  margin: 0% 0 0 5%;
+  border: 1px solid #2a2c7c;
+}
+.pet-categories-see-all {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 93%;
+}
+.available-pets {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 93%;
+  margin: 0% 4% 2%;
+}
+.pet-categories-div {
+  margin: 9% 4% 0%;
+}
+
+/* Card images */
+
+.card-images {
+  width: 94% !important;
+  height: 20% !important;
+  margin: 2% auto;
+  box-shadow: 1px 1px 6px grey;
+}
+
+.card-main-image {
+  width: 150px !important;
+  height: 150px !important;
+}
+.inside-card-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card-content {
+  padding: 1px !important;
+}
+.card-image-content {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+}
+.card-image-pricing {
+  width: 35%;
+  text-align: center;
+}
+.card-image-pricing {
+}
+.text-1 {
+  font-size: 16px !important;
+}
+.text-2 {
+  font-size: 14px !important;
+}
+.image-padding {
+  padding: 2%;
+}
+.stars-total-stars {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.pet-info {
+  font-size: 14px;
+}
+.non-price {
+  color: gray;
+}
+.heart-icon-auction {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 9%;
+}
+.live-auction-preview {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2%;
+}
+.auction-pet-type {
+  font-size: 14px;
+  color: gray;
+  width: 50%;
+}
+.live-auction-preview-buttons {
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+.live-auction-button {
+    margin: 0 2% !important;
+}
+.auction-pet-type1{
+    color: gray;
+    font-weight: bold;
+}
+.pet-categories-see-all-auctions{
+    width:100%
+}
+.add-breeders-club-bar{
+  width: 100%;
+}
+
+@media(max-width: 817px) {
+  .discover-cntr {
+    margin: 0!important;
+  }
+}

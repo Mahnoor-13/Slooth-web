@@ -1,0 +1,99 @@
+.main-h4 {
+  text-align: center;
+  font-size: 1.6rem;
+  color: #2a2e7c;
+}
+
+.black-pet {
+  box-sizing: border-box;
+  height: 150px;
+  border-radius: 100px;
+  width: 150px;
+  border: 1px solid #ffffff;
+}
+
+.qr-img {
+  height: 150px;
+  width: 150px;
+}
+
+.sav-qr-gal {
+  height: 16px;
+  width: 152px;
+  color: #2a2e7c;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: center;
+}
+.icon-print {
+  height: 24px;
+  width: 24px;
+}
+
+.print-qr-code {
+  height: 16px;
+  width: 85px;
+  color: #2a2e7c;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 29px;
+  margin-left: 4px;
+}
+
+.pettype .button4 {
+  height: 6vh;
+  width: 101%;
+}
+
+.main-page-4-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-icon-print {
+  display: flex;
+  flex-direction: row;
+}
+
+.empty-div {
+  border: 0.8px solid lightgray;
+  display: flex;
+  justify-content: flex-start;
+  width: 107%;
+}
+
+.scan-para {
+  margin: 3% 0% 2% 0%;
+  font-size: 1.3rem;
+}
+
+.dog-type {
+  margin-bottom: 1%;
+}
+
+.button4 {
+  background-color: #2a2e7c !important;
+  margin: 3% 0 0 0;
+}
+
+.button4:hover {
+  background-color: #202357 !important;
+}
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  width: 88%;
+  margin: 0 auto;
+  align-items: center;
+  height: 18%;
+}
+.save-pet-profile{
+  color: white !important;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    background-color: #0069d9;
+}

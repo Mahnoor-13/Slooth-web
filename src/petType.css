@@ -1,0 +1,508 @@
+.button-next {
+  background-color: #2a2e7c;
+  width: 55%;
+}
+.button-next:hover {
+  background-color: rgb(31, 35, 105);
+}
+.btn-nxt{
+  width: 126%;
+}
+ .pettype .modal-content {
+  height: 100vh;
+}
+
+.pettype .modal-body {
+  overflow: scroll;
+}
+
+.pettype .heading-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.pettype .container {
+  position: relative;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.pettype .dog {
+  height: 26vh;
+  width: 48%;
+  border: 10px solid white;
+  border-radius: 20px;
+  /* margin-left: 2%; */
+  width: 168px;
+  height: 168px;
+}
+
+.pettype .all-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.pettype .all-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.pettype .left {
+  position: absolute;
+  bottom: 399px;
+  left: 45px;
+  display: none;
+}
+.pettype .right {
+  position: absolute;
+  bottom: 399px;
+  right: 170px;
+  display: none;
+}
+.pettype .bottom-left {
+  position: absolute;
+  bottom: 205px;
+  left: 45px;
+}
+
+.pettype .bottom-right {
+  position: absolute;
+  bottom: 205px;
+  right: 160px;
+}
+
+.pettype .top-left {
+  position: absolute;
+  left: 45px;
+  bottom: 20px;
+}
+
+.pettype .top-right {
+  position: absolute;
+  right: 170px;
+  bottom: 20px;
+}
+.pettype .dashed-div {
+  border-style: dashed;
+  margin: 0 auto;
+  width: 88%;
+}
+
+.pettype .para-dashed {
+  text-align: center;
+  margin: 8px;
+}
+
+.pettype .simple-div {
+  width: 88%;
+  margin: 0 auto;
+}
+
+.pettype .button2 {
+  width: 100%;
+  margin: 5% 0 0 0%;
+  height: 8vh;
+  background-color: #2a2e7c;
+
+}
+.pettype .petname {
+  color: white;
+  position: absolute;
+  margin-top: -9%;
+  margin-left: 6%;
+} 
+/* *******************************PET GENDER START******************************** */
+
+/* .pettype .head-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.pettype .main-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pettype .main {
+  display: flex;
+  justify-content: center;
+}
+
+.pettype .main-content {
+  height: 130px;
+  width: 130px;
+  padding: 15px;
+  border-radius: 81px;
+  background-color: rgb(246, 244, 251);
+}
+
+.pettype .icon-content {
+  padding: 15px;
+  height: 100px;
+  width: 101px;
+  border-radius: 61px;
+  background-color: rgb(203, 198, 221);
+}
+.male {
+  box-sizing: border-box;
+  height: 70px;
+  border-radius: 45px;
+  width: 71px;
+  padding: 17px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: #2a2e7c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pettype .main2 {
+  display: flex;
+  justify-content: center;
+}
+
+.pettype .main-content2 {
+  height: 130px;
+  width: 130px;
+  padding: 15px;
+  border-radius: 81px;
+  background-color: rgb(255, 240, 253);
+}
+
+.pettype .icon-content2 {
+  padding: 15px;
+  height: 100px;
+  width: 101px;
+  border-radius: 61px;
+  background-color: rgb(233, 199, 208);
+}
+
+.pettype .form {
+  text-align: center;
+  top: 60%;
+  left: 5%;
+}
+
+.female {
+  box-sizing: border-box;
+  height: 70px;
+  border-radius: 45px;
+  width: 71px;
+  padding: 17px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: #ff2d67;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pettype .simple-div {
+  width: 88%;
+  margin: 0 auto;
+}
+
+.pettype .button3 {
+  width: 100%;
+  margin: 1px;
+  background-color: #2a2e7c;
+}
+.button3:hover{
+  background-color: rgb(31, 35, 105);
+}
+.main-rectangle {
+  display: flex;
+  width: 26%;
+  margin: 0 auto;
+  justify-content: space-evenly;
+
+}
+.rectangle {
+  box-sizing: border-box;
+  height: 20px;
+  width: 20px;
+  border: 2px solid #2a2e7c;
+  border-radius: 3px;
+}
+.neutered {
+  height: 20px;
+  width: 59px;
+  color: #2a2e7c;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+} */
+/* **************** PAGE NO 3****************** */
+
+/* .pettype .main-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.pettype .main-form {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fafafa;
+}
+
+
+.pettype .cam{
+  height: 130px;
+    width: 130px;
+    padding: 15px;
+    border-radius: 81px;
+    background-color: rgb(236, 246, 237);
+}
+
+.pettype .cam-content{
+  padding: 15px;
+    height: 100px;
+    width: 101px;
+    border-radius: 61px;
+    background-color: rgb(188, 234, 192);
+}
+
+.pettype .camera{
+  box-sizing: border-box;
+    height: 70px;
+    border-radius: 45px;
+    width: 71px;
+    padding: 17px;
+    border: 1px solid rgba(255,255,255,0.5);
+    background-color: #3FB54B
+}
+
+.pettype .main-camera{
+  display: flex;
+  justify-content: center;
+}
+
+
+.pettype .camera-div{
+  width: 88%;
+  margin: 0 auto;
+}
+
+
+.pettype .button3{
+  width: 100%;  margin: 10% 4% 5% 2%;
+  background-color: #2a2e7c;
+}   */
+
+/* **********************Page no 4*************************** */
+
+/* .main-h4 {
+  text-align: center;
+  font-size: 1.6rem;
+  color: #2a2e7c;
+}
+
+.black-pet {
+  box-sizing: border-box;
+  height: 150px;
+  border-radius: 100px;
+  width: 150px;
+  border: 1px solid #ffffff;
+}
+
+.qr-img {
+  height: 150px;
+  width: 150px;
+}
+
+.sav-qr-gal {
+  height: 16px;
+  width: 152px;
+  color: #2a2e7c;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: center;
+}
+.icon-print {
+  height: 24px;
+  width: 24px;
+}
+
+.print-qr-code {
+  height: 16px;
+  width: 85px;
+  color: #2a2e7c;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 29px;
+  margin-left: 4px;
+}
+
+
+
+.pettype .button4{
+  height: 6vh;
+  width: 101%;
+} 
+
+.main-page-4-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-icon-print{
+  display: flex;
+  flex-direction: row;
+}
+
+.empty-div{
+  border: 0.8px solid lightgray;
+  display: flex;
+  justify-content: flex-start;
+  width: 107%;
+
+}
+
+.scan-para{
+  margin: 3% 0% 2% 0%;
+  font-size: 1.3rem;
+}
+
+.dog-type{
+  margin-bottom: 1%;
+}
+
+.button4{
+  background-color: #2a2e7c;
+}
+
+.button4:hover{
+  background-color: #202357; 
+}   */
+
+/* *********************Page No 5*************************** */
+/* .modal-content {
+  height: 120vh;
+  border-radius: 2%;
+} 
+.modal-body {
+  background-image: url("./assets/pet5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bottom-left {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 192px;
+  left: 19px;
+}
+.lorem-ipsum {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 80px;
+  left: 19px;
+}
+.learn-more {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 13px;
+  bottom: 73px;
+  left: 19px;
+}
+.bottom-right{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 17px;
+  color: #ffffff;
+}  */
+
+/* ************Page No 6******************** */
+
+/* .modal-body {
+  background-image: url("./assets/fox.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bottom-left2 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 192px;
+  left: 19px;
+}
+.lorem-ipsum2 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 80px;
+  left: 19px;
+}
+.learn-more2 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 13px;
+  bottom: 73px;
+  left: 19px;
+}
+.bottom-right2{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 17px;
+  color: #ffffff;
+} */
+
+/* ***************************Page No 7********************** */
+
+/* .modal-body {
+  background-image: url("./assets/cat-vertical.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bottom-left3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 192px;
+  left: 19px;
+}
+.lorem-ipsum3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 80px;
+  left: 19px;
+}
+.learn-more3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 13px;
+  bottom: 73px;
+  left: 19px;
+}
+.bottom-right3{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 17px;
+  color: #ffffff;
+} */
+

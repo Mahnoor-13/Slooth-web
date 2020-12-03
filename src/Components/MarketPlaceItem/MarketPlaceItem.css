@@ -1,0 +1,73 @@
+.marketcenter {
+    border: 1px solid lightgrey;
+    padding: 0;
+    margin: 0px 0px 0px 111px !important;
+    width: 174% !important;
+}
+
+.market-dog-image {
+    height: 100%;
+    width: 100%;
+}
+
+
+.main-product {
+    margin-left: 10px;
+}
+
+.main-product-details {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+
+}
+
+.heading-product {
+    color: #2a2c7c;
+}
+
+.paragraph {
+    font-weight: bold;
+}
+
+
+.button-conversation {
+    width: 98%;
+}
+
+
+.stars{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feedback {
+    display: flex;
+    flex-direction: column;
+    font-size: x-small;
+    color: gray;
+}
+
+.feed-label {
+    margin: 0;
+}
+
+.complete {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 93%;
+}
+
+
+
+.small-category {
+    font-size: x-small;
+}
+
+.star-para-items {
+    display: flex;
+    justify-content: space-between;
+    width: 97%;
+}

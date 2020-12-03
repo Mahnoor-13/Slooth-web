@@ -1,0 +1,98 @@
+/* center */
+
+.events-center {
+  border: 1px solid lightgrey;
+  padding: 0;
+  margin: 0px 0px 0px 111px !important;
+  width: 121% !important;
+}
+
+.events-heading {
+  margin: 5% 0 5% 1%;
+  color: #2a2c7c;
+  text-align: center;
+}
+.dog-event {
+  height: 292px;
+}
+.dog-bottom-text {
+  position: absolute;
+  top: 340px;
+  left: 400px;
+  color: white;
+}
+
+.event-cat-group-details {
+  border-radius: 79%;
+  border: 1px solid white;
+  height: 31px;
+  width: 33px;
+  left: 400px;
+  position: absolute;
+  top: 447px;
+}
+.event-dog-group-details {
+  border-radius: 86%;
+  border: 2px solid white;
+  height: 33px;
+  width: 33px;
+  position: absolute;
+  right: 845px;
+  top: 447px;
+}
+.going {
+  position: absolute;
+  right: 47%;
+  top: 455px;
+}
+
+.dog-event2 {
+  margin: 64px 0% 0 0%;
+  height: 292px;
+}
+.dog-bottom-text2 {
+  position: absolute;
+  top: 692px;
+  left: 400px;
+  color: white;
+}
+
+.event-cat-group-details2 {
+  border-radius: 79%;
+  border: 1px solid white;
+  height: 31px;
+  width: 33px;
+  left: 400px;
+  position: absolute;
+  top: 801px;
+}
+.event-dog-group-details2 {
+  border-radius: 86%;
+  border: 2px solid white;
+  height: 33px;
+  width: 33px;
+  position: absolute;
+  right: 845px;
+  top: 801px;
+}
+.going2 {
+  position: absolute;
+  right: 47%;
+
+  top: 810px;
+}
+.founded-event {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.icon-calender {
+  display: flex;
+}
+.calender {
+  height: 19px;
+}
+
+.calender-para-img {
+  color: #2a2c7c;
+}

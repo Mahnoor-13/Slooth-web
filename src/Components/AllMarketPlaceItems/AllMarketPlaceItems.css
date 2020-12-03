@@ -1,0 +1,23 @@
+.allmarketplace-center {
+    border: 1px solid lightgrey;
+    padding: 0;
+    margin: 0px 0px 0px 111px !important;
+    width: 121% !important;
+}
+
+.main-market-div {
+    margin-left: 10px;
+}
+.seller-listed {
+    color: #2a2c7c;
+}
+
+.small-paragraph {
+    font-size: x-small;
+}
+
+.star-para {
+    display: flex;
+    justify-content: space-between;
+    width: 97%;
+}

@@ -1,0 +1,268 @@
+.back {
+  /* width: 50%;
+  height: 100vh; */
+}
+.main-image {
+  width: 68%;
+  margin: 9% 59%;
+}
+
+.groups-pet {
+  height: 5vh;
+}
+.font {
+  font-size: 2.2rem;
+  color: white !important;
+}
+
+.all-icons {
+  display: flex;
+}
+.all-para {
+  margin-left: 2%;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: white;
+}
+.main-icons {
+  /* margin: -59% 8% 8% 2%; */
+  width: 70%;
+  margin: 25% auto;
+}
+.marg {
+  margin-top: 5%;
+}
+
+.main-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.form {
+  margin: -48% 50px 0 0;
+}
+
+.btn-login {
+  border-radius: 17px !important;
+}
+.input {
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 3px solid rgb(129, 133, 129);
+  background-color: #f5f8fa;
+  /* height: 8vh; */
+}
+
+.sec-image {
+  margin: -38% 22% 0 0;
+  width: 20%;
+  height: 9vh;
+}
+.anchor-pass {
+  margin: 0 0 0 3%;
+  font-size: 0.8rem;
+}
+.btn-main {
+  margin: -17% 0% 5% 88%;
+}
+
+.main-input {
+  display: flex;
+}
+
+.heading {
+  margin: -30% 13%;
+}
+.head-6 {
+  margin: -23% 25%;
+  font-weight: bold;
+}
+
+.button {
+  border-radius: 15px !important;
+  /* height: 5vh; */
+  width: 100%;
+  margin-top: 5%;
+}
+
+.left-div {
+  /* height: 100vh; */
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  height: 100vh;
+  /* background-color: #c1d1bd; */
+  background: #71c9f8 !important;
+
+  background-image: url("../src//assets/logo_big.svg");
+}
+
+.labels {
+  width: 100% !important;
+  /* background: #f5f8fa !important; */
+  color: #677988 !important;
+  margin-bottom: 0% !important;
+}
+.login-btn-div {
+  display: flex;
+  flex-direction: column;
+  height: 4.5rem;
+}
+.mainform-div {
+  margin: 1% 7%;
+}
+.title {
+  width: 76%;
+  margin: 13% auto;
+}
+.title-text {
+  font-size: 2rem;
+  font-weight: bold;
+  width: 50%;
+}
+.btns {
+  display: flex;
+  flex-direction: column;
+}
+.join {
+  margin: 9% 0% 0%;
+}
+.rights {
+  margin-top: 5%;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.logo-big {
+  width: 4rem;
+}
+.logo-big-2 {
+  width: 4rem;
+  margin: 50%;
+}
+.join-now {
+  font-weight: bold;
+}
+.signup {
+  background: white;
+  color: #037afb;
+}
+.form-control:focus {
+  border-color: none;
+  box-shadow: none;
+}
+.main-input-modal {
+  width: 100%;
+}
+
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+  align-items: center;
+}
+.modal-content {
+  height: 90vh;
+  border-radius: 2%;
+}
+
+.input-modal {
+  margin-top: 5%;
+}
+.new-account {
+  text-align: center;
+}
+
+.create-new-account {
+  font-weight: bold;
+}
+.detail-signup {
+  font-size: 14px;
+  font-weight: bold;
+}
+.image-upload > input {
+  display: none;
+}
+.file-input {
+  background: #037afb;
+  padding: 3%;
+  border-radius: 40%;
+}
+.camera {
+  width: 2rem;
+}
+.image-upload {
+  text-align: center;
+  cursor: pointer;
+  width: 200px;
+  height: 220px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 2% auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.image-upload1 {
+  text-align: center;
+  cursor: pointer;
+  width: 200px;
+  height: 220px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 2% auto;
+
+}
+.image-upload-pet {
+text-align: center;
+    cursor: pointer;
+    width: 200px;
+    height: 220px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 2% auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image-upload-img {
+  border-radius: 50%;
+  margin: 0 auto;
+  height: 59%;
+  width: 68%;
+}
+
+.profile-div {
+  text-align: center;
+}
+.profile {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 101%;
+  margin: 0 auto;
+}
+.modal-body {
+  overflow: scroll;
+}
+.allow {
+  font-size: 10px;
+  font-weight: bold;
+}
+.align-center {
+  text-align: center;
+}
+.dropdowns {
+  width: 93%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2% auto;
+}

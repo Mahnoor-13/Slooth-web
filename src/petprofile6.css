@@ -1,0 +1,41 @@
+.bottom-left-modal {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 192px;
+  left: 19px;
+}
+.lorem-ipsum {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 20px;
+  bottom: 80px;
+  left: 19px;
+}
+.learn-more {
+  position: absolute;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 13px;
+  bottom: 73px;
+  left: 19px;
+}
+.bottom-right-modal {
+  position: absolute;
+  bottom: 50px;
+  right: 16px;
+  font-size: 17px;
+  color: #ffffff;
+  font-weight: bold;
+  cursor: pointer;
+}
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  width: 88%;
+  margin: 0 auto;
+  align-items: center;
+  height: 18%;
+}

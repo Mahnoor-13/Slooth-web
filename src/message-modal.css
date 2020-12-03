@@ -1,0 +1,110 @@
+.heading-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+/* center */
+
+.msg-center {
+  border: 1px solid lightgrey;
+  padding: 0;
+  margin: 0px 0px 0px 50px;
+  width: 106%;
+}
+.msg {
+  width: 96%;
+  display: flex;
+  flex-direction: row;
+  margin: 3% 0 0 0%;
+  justify-content: space-between;
+}
+
+.msg-heading {
+  margin-left: 4%;
+  font-weight: bold;
+}
+
+.msg-img {
+  height: 10%;
+  width: 4%;
+}
+
+.msg-setting:hover {
+  cursor: pointer;
+  background-color: #a3a4ce;
+  border-radius: 55px;
+}
+
+.msg-pet {
+  width: 48px;
+  height: 48px;
+  border-radius: 80%;
+  position: relative;
+  object-fit: cover;
+}
+
+.input-msg-modal {
+  width: 94%;
+  margin-left: 3%;
+}
+
+.form-msg {
+  border-radius: 40px;
+}
+
+.has-search-modal .form-control {
+  padding-left: 2.375rem;
+  font-size: 0.8rem;
+}
+
+.has-search-modal .form-control-feedback-modal {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+
+.form-control {
+  background-color: rgb(241, 241, 241);
+  border-color: rgb(241, 241, 241);
+}
+
+.all-msg {
+  display: flex;
+  justify-content: space-around;
+}
+
+.now {
+  font-size: 0.8rem;
+  color: gray;
+}
+.msg-hello {
+  color: gray;
+}
+.name-mesg {
+  width: 66%;
+}
+.msg-width {
+  width: 5%;
+}
+
+@media (max-width: 815px) {
+  .msg-center {
+    margin: 0 auto !important;
+  }
+}
+
+.heading-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+
+.para-name-modal {
+    margin-right: 23%;
+}

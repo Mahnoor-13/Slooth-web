@@ -1,0 +1,149 @@
+.podcastCenter {
+  border: 1px solid lightgrey;
+  padding: 0;
+  width: 174% !important;
+  margin: 0 0 0 111px;
+}
+.podcast-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.podcast {
+  margin: 5% 0 5% 1%;
+  color: #2a2c7c;
+}
+
+.podcast-background-color {
+  /* background-image: linear-gradient(
+    rgb(200, 245, 222),
+    rgb(21, 7, 99),
+    rgb(121, 206, 235)
+  ); */
+  height: 100%;
+  width: 100%;
+  padding: 1%;
+  margin: -4% 0 0 0;
+}
+
+.podcast-borders {
+  border: 1px solid white;
+  margin: 7%;
+  background: white;
+  border-radius: 11px;
+}
+
+.pup-para-podcast {
+  display: flex;
+}
+.pet3-podcast {
+  width: 51px;
+  height: 49px;
+  margin: 9% auto 0;
+  border-radius: 80%;
+  position: relative;
+  /* margin: 1% 2% 10%; */
+  border: 5px solid white;
+}
+
+.pup-anc-podcast {
+  color: black;
+  font-size: 0.8rem;
+}
+.pup-anc-podcast:hover {
+  color: black;
+}
+
+.small-podcast {
+  color: gray;
+  font-size: 0.8rem;
+}
+
+.podcast-icons {
+  display: flex;
+  justify-content: space-between;
+  width: 91%;
+}
+
+.all-border-pod {
+  margin: 5%;
+}
+.play {
+  font-size: 0.8rem;
+}
+.setting-plus-icon {
+  display: flex;
+  width: 12%;
+  justify-content: space-around;
+}
+.podcasts-top-icons{
+  font-size: 2rem;
+  color: #2a2c7c;
+  cursor:pointer
+}
+.fixed-div-podcasts{
+  position: fixed;
+  bottom: 0;
+  margin: 0;
+  width: 43%;   
+  margin: ma;
+  margin: 0% 2%;
+}
+.chat-podcast-icons, .podcasts-list-icon{
+  cursor: pointer;
+}
+.like-div{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.like-comment-div{
+  display: flex;
+}
+.podcast-list-play .rhap_container{
+  box-shadow: none !important;
+}
+
+.audio .rhap_time {
+  color:white !important;
+}
+.audio .rhap_additional-controls{
+  display: none !important;
+}
+.search-podcast{
+  width: 87%;
+  margin: 2% auto;
+}
+.srch-btn{
+  background: gray;
+  width: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.srch-icon{
+  color: white;
+}
+.podcast-btns{
+  color: white;
+  width: 28%;
+  border-radius: 5px;
+}
+.podcast-btns-div{
+  display: flex;
+  justify-content: space-between;
+  width: 87%;
+  margin: 2% auto 0%;
+}
+.showing-heading{
+  background: none;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin: 6% 7% -6%;
+}

@@ -1,0 +1,62 @@
+.popup{
+    position: absolute;
+    bottom: 28px;
+    width: 35%;
+    height: 150px;
+    background: white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0% 1%;
+}
+.cross-button-div{
+    padding: 2% 5%;
+}
+.selected-pet-img{
+    width: 130px;
+    height: 130px;
+    border-radius: 8px;
+}
+.selected-pet-img-div{
+    padding: 2%;
+}
+.pet-details{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 50%;
+    margin: 7% 2%;
+}
+.individual-pet-details{
+    display: flex;
+    flex-direction: row;
+}
+
+.details-description {
+    height: 12px;
+    /* width: 38px; */
+    color: #444244;
+    /* font-family: Montserrat; */
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 12px;
+  }
+
+  .details-heading {
+    height: 12px;
+    /* width: 54px; */
+    /* color: #444244; */
+    /* font-family: Montserrat; */
+    font-size: 14px;
+    /* font-weight: 500; */
+    letter-spacing: 0;
+    line-height: 12px;
+  }
+  .click-here{
+    color: #3aa1f2;
+    text-decoration: underline;
+  }
+  

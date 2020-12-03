@@ -1,0 +1,10 @@
+.background-image-podcast {
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+.podcasts-top-icons {
+  font-size: 2rem;
+  color: #2a2c7c;
+  cursor:pointer
+}

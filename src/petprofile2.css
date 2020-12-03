@@ -1,0 +1,134 @@
+.pettype .head-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.pettype .main-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pettype .main {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.pettype .main-content {
+  height: 130px;
+  width: 130px;
+  padding: 15px;
+  border-radius: 81px;
+  background-color: rgb(246, 244, 251);
+}
+
+.pettype .icon-content {
+  padding: 15px;
+  height: 100px;
+  width: 101px;
+  border-radius: 61px;
+  background-color: rgb(203, 198, 221);
+}
+.male {
+  box-sizing: border-box;
+  height: 70px;
+  border-radius: 45px;
+  width: 71px;
+  padding: 17px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: #2a2e7c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pettype .main2 {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.pettype .main-content2 {
+  height: 130px;
+  width: 130px;
+  padding: 15px;
+  border-radius: 81px;
+  background-color: rgb(255, 240, 253);
+}
+
+.pettype .icon-content2 {
+  padding: 15px;
+  height: 100px;
+  width: 101px;
+  border-radius: 61px;
+  background-color: rgb(233, 199, 208);
+}
+
+.pettype .form {
+  text-align: center;
+  top: 60%;
+  left: 5%;
+}
+
+.female {
+  box-sizing: border-box;
+  height: 70px;
+  border-radius: 45px;
+  width: 71px;
+  padding: 17px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: #ff2d67;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pettype .simple-div {
+  width: 88%;
+  margin: 0 auto;
+}
+
+.pettype .button3 {
+  width: 100%;
+  margin: 25px 1px;
+  background-color: #2a2e7c;
+}
+.button3:hover {
+  background-color: rgb(31, 35, 105);
+}
+.main-rectangle {
+  display: flex;
+  width: 26%;
+  margin: 0 auto;
+  justify-content: space-evenly;
+}
+.rectangle {
+  box-sizing: border-box;
+  height: 20px;
+  width: 20px;
+  border: 2px solid #2a2e7c;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.neutered {
+  height: 20px;
+  width: 59px;
+  color: #2a2e7c;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.logo-modal-2 {
+  margin: 22px 163px !important;
+  width: 21% !important;
+}
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  width: 88%;
+  margin: 0 auto;
+  align-items: center;
+  height: 10% !important;
+}

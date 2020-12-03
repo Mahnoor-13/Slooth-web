@@ -1,0 +1,137 @@
+/* center */
+
+.creategroup-center {
+  border: 1px solid lightgrey;
+  padding: 0;
+  margin: 0px 0px 0 111px;
+  width: 174% !important;
+}
+
+.group-heading {
+  margin: 5% 0 5% 1%;
+  color: #2a2c7c;
+  text-align: center;
+}
+
+.group-foam {
+  width: 92%;
+
+  height: 46px;
+  border-radius: 81px;
+}
+.foam-div {
+  display: flex;
+  justify-content: center;
+}
+
+.slooth-dashed-group {
+  border-style: dashed;
+  margin: 0 auto;
+  width: 92%;
+  border-radius: 34px;
+  border-color: #2a2c7c;
+}
+.slooth-dashed-group:hover {
+  cursor: pointer;
+}
+
+.para-alert-group {
+  text-align: center;
+  /* margin: 8px; */
+  color: #2a2e7c;
+  font-weight: bold;
+}
+.para-alert-group:hover {
+  color: #2a2e7c;
+}
+
+.create-camera-photo {
+  margin: -2% 2% 0% 0;
+}
+.members {
+  margin: 7% 0 0 3%;
+  font-weight: bold;
+  color: rgb(70, 67, 67);
+}
+.add-friends {
+  font-size: 1.9rem;
+  color: #2a2c7c;
+}
+.add-friends-div {
+  margin: 3% 0 0 3%;
+  display: flex;
+  align-items: center;
+  color: #2a2c7c;
+}
+.invite-friends {
+  color: #2a2c7c;
+}
+.privacy {
+  margin: 7% 0 0 3%;
+  font-weight: bold;
+  color: rgb(70, 67, 67);
+}
+
+.all-images-of-bottom-group {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+.public {
+  color: #2a2c7c;
+  font-weight: bold;
+}
+.closed {
+  color: gray;
+  font-weight: bold;
+}
+
+.secret {
+  color: gray;
+  font-weight: bold;
+}
+
+.search-group {
+  height: 3% !important;
+}
+
+.market-navtab-create {
+  display: flex;
+  justify-content: space-around;
+}
+
+.furniture-create {
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
+.furniture-create:hover {
+  text-decoration: none;
+  color: gray;
+}
+.furniture-create-group {
+  color: #2a2c7c;
+}
+.furniture-create-group:hover {
+  color: #2a2c7c;
+  text-decoration: none;
+}
+
+@media (max-width: 817px) {
+  .creategroup-center {
+    margin: 0 0 0 0;
+  }
+}
+@media (max-width: 365px) {
+  .market-navtab-create {
+    font-size: 0.7rem;
+  }
+  .para-alert-group {
+    font-size: 0.6rem;
+
+  }
+  .group-foam {
+    font-size: 0.7rem;
+
+  }
+}

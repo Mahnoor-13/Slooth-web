@@ -1,0 +1,146 @@
+/* center */
+
+.slooth2-center {
+  border: 1px solid lightgrey;
+  padding: 0;
+  margin: 0px 0px 0px 111px;
+  width: 174%;
+}
+.sloothalert {
+  text-align: center;
+  margin-top: 5%;
+  color: #2a2c7c;
+}
+.all-inputs {
+  margin: 9% 10% 0 10%;
+}
+.all-forms {
+  height: 50px;
+  background-color: #fafafa;
+}
+.comment-form {
+  background-color: #fafafa;
+}
+.slooth-dashed2 {
+  border-style: dashed;
+
+  border-color: #2a2c7c;
+}
+.slooth-dashed2:hover {
+  cursor: pointer;
+}
+
+.para-alert2 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  color: #2a2c7c;
+}
+.para-alert2:hover {
+  color: #2a2c7c;
+}
+.full-btn {
+  display: flex;
+  justify-content: center;
+}
+
+.zip-code {
+  margin: 0% 0% 0 10%;
+}
+.zip-code-based-alert {
+  height: 20px;
+  width: 273px;
+  color: #2a2e7c;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+}
+
+.checkbox {
+  display: flex;
+  flex-direction: row;
+  margin: 0 0 0 10%;
+  cursor: pointer;
+}
+.form-check {
+  box-sizing: border-box;
+  height: 20px;
+  width: 20px;
+  border: 2px solid #2a2e7c;
+  border-radius: 3px;
+}
+.registered-with-a-cell-phone-number {
+  color: #2a2c7c;
+}
+
+.next-btn1 {
+  width: 88%;
+  margin: 0 auto;
+}
+
+.next-btn2 {
+  width: 100%;
+  margin: 5% 0 0 0%;
+  height: 55px;
+  background-color: #2a2c7c;
+}
+
+.dropdownsloothalert {
+  width: 100%;
+  padding: 2.3%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2% auto;
+  color: #495057;
+  border: 1px solid #ced4da;
+  background: #fafafa;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.show > .btn-outline-primary.dropdown-toggle {
+  color: #495057;
+  border: 1px solid #ced4da;
+  background: #fafafa;
+}
+
+.sc-bxivhb {
+  width: 80%;
+  margin: 0;
+  background: white !important;
+  box-shadow: none !important;
+  text-align: di;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wheel-div {
+  text-align: center;
+}
+
+.sc-bdVaJa span{
+  display: none;
+}
+
+.sc-bdVaJa p{
+  color: #2a2c7c !important;
+}
+
+.sc-bdVaJa{
+display: flex;
+flex-direction: column;
+}
+
+
+li[aria-selected="true"]{
+  border-top: 1px solid #2a2c7c;
+  border-bottom: 1px solid #2a2c7c;
+}
+
+.dewoXz:focus {
+  outline: none !important;
+}

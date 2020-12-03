@@ -1,0 +1,189 @@
+/* center */
+
+.center-comment{
+  margin: 2% 0% 0%;
+  border: 1px solid lightgrey;
+  padding: 0;
+  margin: 0px 0px 0px 111px !important;
+  width: 174% !important;
+}
+
+
+.arrow-comment {
+  cursor: pointer;
+}
+
+
+.parent-comment {
+  display: flex;
+  height: 8vh;
+}
+
+.child-comment {
+  display: flex;
+  margin: 3% 5%;
+  color: rgba(29, 161, 242, 1) !important;
+}
+.slooth-comment {
+  width: 5%;
+}
+
+
+
+
+.back-comment {
+  width: 56%;
+  margin: 9%;
+}
+
+.pup-anc-comment {
+  color: black;
+}
+.pup-anc-comment:hover {
+  color: black;
+}
+
+.pup-anc-comment-section {
+  color: black;
+  font-size: 0.8rem;
+
+}
+.pup-anc-comment-section:hover {
+  color: black;
+}
+
+.pet3-comment {
+  width: 51px;
+  height: 49px;
+  margin: 9% auto 0;
+  border-radius: 80%;
+  position: relative;
+  /* margin: 1% 2% 10%; */
+  border: 5px solid white;
+}
+.pet3-comment-section {
+  width: 51px;
+  height: 49px;
+  margin: 9% auto 0;
+  border-radius: 80%;
+  position: relative;
+  /* margin: 1% 2% 10%; */
+  border: 5px solid white;
+}
+.pup-comment {
+  color: gray;
+}
+.pup-comment-section {
+  color: gray;
+}
+.pup-para-comment {
+  display: flex;
+  margin: 3%;
+}
+
+.pup-para-comment-section {
+  display: flex;
+  margin: 3%;
+}
+
+.anc-y-comment {
+  margin: 2%;
+}
+
+.last-p-comment {
+  margin: -3% 0% 0% 5%;
+  font-size: 1rem;
+}
+
+.pet4-comment {
+  width: 100%;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+}
+.time-coment {
+  display: flex;
+  margin: 0 4%;
+  font-size: 0.8rem;
+}
+.img-para-comment {
+  border: 1px solid lightgray;
+  width: 95%;
+  margin: 12px;
+  border-radius: 28px;
+}
+.para-comment {
+  margin: 3%;
+}
+.paaragraph-comnt {
+  color: gray;
+}
+.para-dog-comnt {
+  display: inline-block;
+}
+
+.anchor-color-coment {
+  color: gray;
+}
+.retweets-comment {
+  color: black;
+}
+
+.retweets-comment:hover {
+  color: black;
+}
+
+.last-p-comment-section {
+  margin: -4% 0 0 14%;
+  font-size: 0.8rem;
+}
+
+.noti-comment {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2%;
+}
+.display-comment {
+  display: inherit;
+}
+
+.noot-comment {
+  margin: 10%;
+}
+
+
+.noti-comment-section {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 2%;
+}
+.display-comment-section {
+  display: inherit;
+}
+
+.noot-comment-section {
+  margin: 10%;
+}
+.small-com {
+  color: gray;
+  font-size: 0.8rem;
+}
+.hours-com {
+  color: gray;
+  font-size: 0.8rem; 
+}
+.hours-com:hover {
+  color: gray;
+  font-size: 0.8rem; 
+}
+
+@media (max-width: 817px) {
+  .center {
+    margin: 0 auto !important;
+  }
+}
+@media (max-width: 877px) {
+  .center-comment {
+    width: 100% !important;
+    overflow-x: hidden;
+  }
+}

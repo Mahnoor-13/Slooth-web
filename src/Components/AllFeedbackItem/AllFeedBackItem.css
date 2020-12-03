@@ -1,0 +1,38 @@
+.feedback-center {
+    border: 1px solid lightgrey;
+    padding: 0;
+    margin: 0px 0px 0px 111px !important;
+    width: 121% !important;
+}
+
+.all-feedback {
+    margin-left: 10px;
+}
+
+.all-products {
+    margin: 0 0 5% 0;
+}
+
+
+.star-products{
+    display: flex; 
+}
+.stars-feedback{
+    position: absolute;
+    top: 53%;
+    right: 51%;
+}
+
+.products-name {
+    color: #2a2c7c;
+}
+
+.buyer-parent {
+    display: flex;
+}
+
+
+.parent-stars{
+    margin: -2% 0 0 3%;
+}
+

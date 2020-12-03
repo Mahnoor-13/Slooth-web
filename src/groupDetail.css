@@ -1,0 +1,116 @@
+
+
+/* center */
+
+.groupdetail-center {
+  border: 1px solid lightgrey;
+  padding: 0;
+  margin: 0px 0px 0 111px;
+  width: 105%!important;
+}
+
+.detail-heading{
+    margin: 5% 0 5% 1%;
+    color: #2a2c7c;
+    text-align: center;
+}
+
+.group-dog {
+  height: 292px;
+}
+.center-content-of-group-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 6%;
+}
+.cat-group-details {
+  border-radius: 79%;
+  border: 1px solid white;
+  height: 31px;
+  width: 33px;
+  left: 393px;
+  position: absolute;
+}
+.dog-group-details {
+  border-radius: 86%;
+  border: 2px solid white;
+  height: 33px;
+  width: 33px;
+  position: absolute;
+  right: 849px;
+}
+.fox-group-details {
+  border-radius: 79%;
+  border: 2px solid white;
+  height: 32px;
+  width: 33px;
+  position: absolute;
+  right: 828px;
+}
+.hampster-group-details {
+  border-radius: 79%;
+  border: 2px solid white;
+  height: 32px;
+  width: 33px;
+  position: absolute;
+  right: 808px;
+}
+.ifish-group-details {
+  border-radius: 79%;
+  border: 2px solid white;
+  height: 32px;
+  width: 33px;
+  position: absolute;
+  right: 789px;
+}
+.rabbit-group-details {
+  border-radius: 79%;
+  border: 2px solid white;
+  height: 32px;
+  width: 33px;
+  position: absolute;
+  right: 770px;
+}
+.likes {
+  margin: 1%;
+  width: 206px;
+}
+.see-more {
+  margin: 1%;
+  width: 189px;
+  color: #2a2c7c;
+  cursor: pointer;
+  font-weight: bold;
+}
+.all-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 135%;
+}
+.about-lorem {
+  margin: 6% 2% 0 6%;
+}
+.group-btn {
+  display: flex;
+  justify-content: center;
+}
+.joingroup-btn {
+  width: 500px;
+  height: 54px;
+  background-color: #2a2c7c;
+}
+.joingroup-btn:hover {
+  background-color: #222669;
+}
+.lorem-para {
+  color: gray;
+}
+
+@media(max-width: 817px) {
+  .groupdetail-center{
+    margin: 0  !important;
+        width: 100%!important;
+}
+}

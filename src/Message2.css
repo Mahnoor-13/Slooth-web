@@ -1,0 +1,47 @@
+.App2 {
+  border: 1px solid lightgray;
+  width: 124%;
+  height: 98vh;
+}
+.msg-icon2 {
+  width: 96%;
+  display: flex;
+  flex-direction: row;
+  margin: 1% 0 0 0%;
+  justify-content: space-between;
+}
+.heading-n {
+  margin-left: 4%;
+  font-weight: bold;
+}
+.par-n {
+  margin-left: 4%;
+  color: gray;
+  margin-top: -2%;
+}
+.input-group-text {
+  border: none;
+  background-color: rgb(241, 241, 241);;
+}
+.all-search-icons {
+  display: flex;
+}
+
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+  font-size: 0.8rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+  
+}

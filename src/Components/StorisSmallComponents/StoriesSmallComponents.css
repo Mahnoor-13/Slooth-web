@@ -1,0 +1,91 @@
+.Story {
+  border: 1px solid lightgray;
+  width: 124%;
+  height: 90 !important;
+  background-color: rgb(43, 43, 43);
+}
+.stori-dog {
+  width: 40%;
+  margin: 2%;
+  border-radius: 10px;
+}
+.story2-display {
+  display: flex;
+  justify-content: center;
+}
+
+.story2-dog {
+  width: 48px;
+  height: 48px;
+  border-radius: 80%;
+  object-fit: cover;
+  border: 3px solid blue;
+}
+
+.story-sound {
+  position: absolute !important;
+  top: 6%;
+  left: 52.5%;
+}
+
+.story-play {
+  display: flex;
+}
+.name-sto {
+  margin: 0 5%;
+}
+.stori-input {
+  width: 15% !important;
+  border: 1px solid;
+  border-radius: 60px;
+  margin-bottom: 0!important;
+}
+
+.inputsto {
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border: 25px !important;
+  background: white !important;
+}
+
+.inpt-grp {
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border: none !important;
+  background: white !important;
+}
+.all-emojis-input {
+  margin:1% 0;
+  display: flex;
+  justify-content: center;
+}
+
+.thumbsupemoji {
+  font-size: 2.2rem!important;
+  margin-right: 5px;
+
+}
+.like {
+  background: #3578E5;
+  border-radius: 57px;
+  padding: 3px;
+  color: white;
+}
+
+.heart {
+  background: rgb(218, 79, 79);
+  border-radius: 57px;
+  padding: 3px;
+  color: white;
+}
+.emoji {
+  color: rgb(234, 236, 84);
+}
+
+.reaction-emojis-div{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 20%;
+}

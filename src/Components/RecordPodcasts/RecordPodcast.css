@@ -1,0 +1,162 @@
+.recordCenter {
+  border: 1px solid lightgrey;
+  padding: 0;
+  width: 174% !important;
+  margin: 0 0 0 111px;
+  /* background-image: linear-gradient(
+    rgb(200, 245, 222),
+    rgb(21, 7, 99),
+    rgb(121, 206, 235)
+  ); */
+}
+.record-heading {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.record {
+  margin: 5% 0 5% 1%;
+  color: white;
+}
+.pet3-record {
+  font-size: 7rem !important;
+  color: white;
+  margin: 0 0 0 5%;
+}
+
+.record-br {
+  border: 1px;
+  border-radius: 94px;
+  /* padding: 4% 4%; */
+  background-image: linear-gradient(
+    rgb(132, 248, 186),
+    rgb(75, 61, 155),
+    rgb(121, 206, 235)
+  );
+  /* width: 119%; */
+  width: 150px;
+  height: 143px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.upload-options-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.pup-para-record {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-record {
+  display: flex;
+  margin: 5%;
+}
+
+.img-record {
+  width: 51px;
+  height: 49px;
+  margin: 0 auto;
+  border-radius: 80%;
+  position: relative;
+}
+
+.name-record {
+  color: white;
+  font-size: 0.9em;
+}
+.name-record-pod {
+  margin: 2%;
+}
+.record-podcast {
+  margin: 9% auto;
+  color: white;
+}
+
+.mic-icon {
+  margin: 0 0 0 -2%;
+  text-align: center;
+}
+.record-button {
+  margin: 9% auto;
+  text-align: center;
+}
+
+.sub-record-dot {
+  width: 30px;
+  height: 30px;
+  border: 1px solid red;
+  padding: 5px;
+  border-radius: 100px;
+}
+.record-dot {
+  width: 18px;
+  height: 18px;
+  background: red;
+  border-radius: 100px;
+}
+.activity-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.recording-component .rhap_container {
+  background: none;
+  box-shadow: none !important;
+}
+
+.recording-component .rhap_time {
+  color: white;
+}
+.recording-component .audioplayer-div {
+  margin: 7% 9%;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.recording-component .input-div {
+  margin: 11% 0%;
+}
+.input-record {
+  height: 100px !important;
+  width: 85% !important;
+  border-radius: 9px !important;
+  margin: 0 auto !important;
+}
+.after-recorded {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.addpodcast-heading {
+  text-align: left;
+  margin: 2% 8%;
+  color: white;
+  font-weight: bold;
+}
+.play-podcast {
+  color: white;
+  font-weight: bold;
+  margin: 2%;
+}
+.uploaded-audio {
+  width: 45%;
+  margin: 20% auto;
+}
+
+.upload-podcast-btn{
+  width: 50%;
+  margin: 5% auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,258 @@
+/* center */
+.marketPlace {
+  border: 1px solid lightgrey;
+  padding: 0;
+  margin: 0px 0px 0px 111px !important;
+  width: 174% !important;
+}
+.marketplace-heading-logo {
+  margin-top: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between !important;
+  align-items: center;
+  width: 98%;
+}
+.services-logo {
+  width: 4%;
+}
+.services {
+  margin: 5% 0 5% 1%;
+  color: #2a2c7c;
+}
+.marketplace-search-bar {
+  height: 3% !important;
+  width: 90%;
+  margin: 0% 0 0 5%;
+  border: 1px solid #2a2c7c;
+}
+.fa2 {
+  display: flex;
+  color: #2a2c7c;
+}
+.form-control2s {
+  border: 0 !important;
+  border-radius: 24px !important;
+  height: 2% !important;
+}
+.showfilter {
+  color: #2a2c7c;
+}
+.image-showfilter {
+  display: inline-flex;
+  margin: 4% 8% 0% 5%;
+}
+.sortby-image {
+  display: inline-flex;
+  margin: 4% 0 0% 49%;
+  cursor: pointer;
+}
+.all-images-paragraphs {
+  /* display: flex;
+  flex-direction: row; */
+  cursor: pointer;
+    display: flex;
+  justify-content: space-between;
+  width: 95%;
+  margin: 0 auto;
+}
+
+.market-navtab {
+  display: flex;
+  justify-content: space-around;
+}
+.furniture {
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
+.furniture:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: gray;
+}
+.houses {
+  color: #2a2c7c;
+  text-decoration: none;
+  font-weight: bold;
+}
+.houses:hover {
+  cursor: pointer;
+  color: #2a2c7c;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.doghouses {
+  border: 10px solid white;
+  border-radius: 20px;
+  margin-left: 2%;
+  width: 245px;
+  height: 222px;
+}
+
+.all-left-doghouses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0% 1%;
+}
+
+.all-right-doghouses {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.left-doghouses {
+  position: absolute;
+  bottom: 399px;
+  left: 45px;
+  display: none;
+}
+.right-doghouses {
+  position: absolute;
+  bottom: 399px;
+  right: 170px;
+  display: none;
+}
+.bottom-left-doghouses {
+  position: absolute;
+  bottom: 205px;
+  left: 45px;
+}
+
+.bottom-right-doghouses {
+  position: absolute;
+  bottom: 205px;
+  right: 160px;
+}
+
+.top-left-doghouses {
+  position: absolute;
+  left: 45px;
+  bottom: 20px;
+}
+
+.top-right-doghouses {
+  position: absolute;
+  right: 170px;
+  bottom: 20px;
+}
+
+.petname-doghouses {
+  color: white;
+  position: absolute;
+  margin-top: -9%;
+  margin-left: 6%;
+}
+
+.marketplace-item {
+  cursor: pointer;
+}
+.sell {
+  cursor: pointer;
+}
+
+.add-new-item {
+  color: #6b7c8b;
+  background: white;
+  text-align: center;
+  margin: 7%;
+}
+
+.add-new-item-form {
+  background: white;
+}
+.upload-photos {
+  width: 100%;
+  border: 3px dotted #2a2c7c;
+  color: #2a2c7c;
+  margin: 8% 0 auto;
+}
+
+.upload-photos div {
+  margin: auto;
+  text-align: center;
+}
+.marketplace-post {
+  width: 100%;
+  background-color: #2a2c7c;
+  color: white;
+  margin: 0 auto;
+  padding: 2.5%;
+}
+.button-div {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.image-uploaded {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.selected-images {
+  width: 50px;
+  height: 50px;
+}
+.image-cross {
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+  align-items: center;
+  position: absolute;
+  left: 36px;
+  top: -6px;
+  color: white;
+  background-color: #818581;
+  border-radius: 24px;
+  height: 24px;
+  width: 24px;
+  text-align: center;
+  cursor: pointer;
+}
+.selected-images-div {
+  position: relative;
+  display: flex;
+}
+.portion-headings {
+  color: #2c327c;
+  width: 92%;
+  margin: 0 auto;
+}
+.marketplace-text-area {
+  padding: 0;
+  background-color: white;
+}
+.marketplace-select-box {
+  background: white;
+  color: #677988;
+}
+.post-marketplace {
+  text-align: center;
+  cursor: pointer;
+  width: 205px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 2% auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.image-showfilter-nomargin, .sortby-image-nomargin  {
+  margin:0 !important;
+  display: flex;
+  align-items: center;
+}

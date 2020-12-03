@@ -1,0 +1,95 @@
+.story-center {
+  width: 50%;
+}
+
+.story-pet {
+  width: 48px;
+  height: 48px;
+  border-radius: 80%;
+  position: relative;
+  object-fit: cover;
+  border: 3px solid blue;
+}
+
+.all-story {
+  display: flex;
+  justify-content: space-between; 
+  margin: 8%;
+  cursor: pointer;
+} 
+
+.story-now {
+  font-size: 0.8rem;
+  color: gray;
+}
+.story-hello { 
+  color: gray;
+} 
+
+.story-width { 
+  width: 5%;
+   
+}
+
+.logo-stori {
+  width: 43px;
+  border-radius: 23px;
+}
+.stori-div {
+  display: flex;
+  margin: 4% 5%;
+}
+.story-back {
+  background: #e4e6eb;
+  border-radius: 57px;
+  padding: 9px;
+}
+.stories-set {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 6%;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+.story-add {
+  background: #e4e6eb;
+  border-radius: 57px;
+  padding: 9px;
+}
+
+.add-stori {
+  width: 43px;
+  border-radius: 23px;
+}
+
+.story-add {
+  background: #e4e6eb;
+  border-radius: 57px;
+  padding: 15px;
+}
+
+
+.add-div {
+  display: flex;
+  margin: 4% 5%;
+}
+
+.addtoyourstory {
+  margin: -3% 5%;
+}
+
+.writesome {
+  font-size: 0.7rem;
+}
+.setting {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+.story-name-img{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.name-story-div{
+  margin: 0 -12%;
+}

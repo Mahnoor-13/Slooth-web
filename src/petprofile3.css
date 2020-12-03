@@ -1,0 +1,60 @@
+.pettype .main-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.main-form {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fafafa;
+}
+
+.cam {
+  height: 130px;
+  width: 130px;
+  padding: 15px;
+  border-radius: 81px;
+  background-color: rgb(236, 246, 237);
+}
+
+.cam-content {
+  padding: 15px;
+  height: 100px;
+  width: 101px;
+  border-radius: 61px;
+  background-color: rgb(188, 234, 192);
+}
+
+.camera {
+  box-sizing: border-box;
+  height: 70px;
+  border-radius: 26px;
+  width: 71px !important;
+  padding: 17px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  background-color: #3fb54b;
+}
+
+.main-camera {
+  display: flex;
+  justify-content: center;
+}
+
+.camera-div {
+  width: 88%;
+  margin: 0 auto;
+}
+
+.button3 {
+  width: 100%;
+  margin: 10% 4% 5% 2%;
+  background-color: #2a2e7c;
+}
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  width: 88%;
+  margin: 0 auto;
+  align-items: center;
+  height: 18%;
+}

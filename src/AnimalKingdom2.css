@@ -1,0 +1,45 @@
+.animalKingdomCenter {
+  border: 1px solid lightgrey;
+  padding: 0;
+  width: 174% !important;
+  margin: 0 0 0 111px;
+}
+.heading-logo2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+.kingdom-logo2 {
+  width: 4%;
+}
+.services2 {
+  margin: 5% 0 5% 1%;
+  color: #2a2c7c;
+}
+.missing-gvy{
+    display: flex;
+    margin: 8%;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.missingposter {
+    color: #2a2c7c;
+}
+.color-gr {
+    color: gray;
+}
+
+.all-desc {
+    display: flex;
+}
+.type {
+    color: #2a2c7c;
+}
+.cart-button {
+    background: #2a2c7c!important;
+    border-radius: 22px!important;
+    width: 124%!important;
+    margin-top: 16%;
+}

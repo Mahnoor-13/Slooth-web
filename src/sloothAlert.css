@@ -1,0 +1,42 @@
+
+  
+  /* center */
+  
+  .alooth-center {
+    border: 1px solid lightgrey;
+    padding: 0;
+    margin: 0;
+    width: 105%;
+  }
+  .sloothalert{
+    text-align: center;
+    margin-top: 5%;
+    color: #2a2c7c;
+  }
+
+.slooth-dashed{
+    border-style: dashed;
+    margin: 0 auto;
+    width: 70%;
+    border-color: #2a2c7c;
+  }
+  .slooth-dashed:hover{
+    cursor: pointer;
+  }
+  
+.para-alert {
+    text-align: center;
+    margin: 8px;
+    word-spacing: 4px;
+    color: #2a2c7c;
+}
+.para-alert:hover{
+  color: #2a2c7c;
+}
+
+.sloothalert-para{
+  color: gray;
+    margin: 5% 5% 0 3%;
+}
+
+

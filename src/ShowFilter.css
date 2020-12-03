@@ -1,0 +1,29 @@
+
+.modal-heading {
+  display: flex;
+  justify-content: space-between;
+  width: 88%;
+  margin: 0 auto;
+  align-items: center;
+  height: 18%;
+}
+.heading-h3 {
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.logo-modal-filter {
+  margin: 22px 209px 0;
+  width: 10%;
+}
+.filtered-btn {
+    width: 100%;
+    background-color: #2a2c7c;
+}
+
+.filtered-btn:hover {
+    background-color: #2a2c7c;
+}
+.all-div-of-filtered {
+    padding: 3%;
+}
